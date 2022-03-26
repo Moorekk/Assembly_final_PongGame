@@ -13,13 +13,13 @@
 
 ## 遊戲畫面
 初始畫面  
-![](.\pictures\start_stage.png)  
+![](https://github.com/Moorekk/Assembly_final_PongGame/blob/master/pictures/start_stage.png)  
 
 遊戲畫面  
-![](.\pictures\game_stage.png)  
+![](https://github.com/Moorekk/Assembly_final_PongGame/blob/master/pictures/game_stage.png)  
 
 遊戲開始倒數畫面  
-![](.\pictures\count_down_stage.png)  
+![](https://github.com/Moorekk/Assembly_final_PongGame/blob/master/pictures/count_down_stage.png)  
 
 遊戲結束畫面  
-![](.\pictures\end_game_stage.png)  
+![](https://github.com/Moorekk/Assembly_final_PongGame/blob/master/pictures/end_game_stage.png)  
