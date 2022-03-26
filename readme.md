@@ -3,9 +3,8 @@
 > 2 人乒乓球遊戲
 
 ## 操作方法
-左邊玩家以鍵盤 \[ https://latex.codecogs.com/svg.image?W, S \] 控制上下  
-右邊玩家以鍵盤 \[ https://latex.codecogs.com/svg.image?O, L \] 控制上下  
-\[ https://latex.codecogs.com/svg.image?W, S \]
+左邊玩家以鍵盤 <img src='https://latex.codecogs.com/svg.image?W,&space;S&space;'> 控制上下  
+右邊玩家以鍵盤 <img src='https://latex.codecogs.com/svg.image?O,&space;L&space;'> 控制上下  
 
 ## 啟用方法
 - **僅能在 Windows 系統使用**  
