@@ -5,7 +5,7 @@
 ## 操作方法
 左邊玩家以鍵盤 \[ https://latex.codecogs.com/svg.image?W, S \] 控制上下  
 右邊玩家以鍵盤 \[ https://latex.codecogs.com/svg.image?O, L \] 控制上下  
-
+\[ https://latex.codecogs.com/svg.image?W, S \]
 
 ## 啟用方法
 - **僅能在 Windows 系統使用**  
