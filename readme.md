@@ -13,13 +13,13 @@
 
 ## 遊戲畫面
 初始畫面  
-![](pictures\start_stage.png)  
+![](.\pictures\start_stage.png)  
 
 遊戲畫面  
-![](pictures\game_stage.png)  
+![](.\pictures\game_stage.png)  
 
 遊戲開始倒數畫面  
-![](pictures\count_down_stage.png)  
+![](.\pictures\count_down_stage.png)  
 
 遊戲結束畫面  
-![](pictures\end_game_stage.png)  
+![](.\pictures\end_game_stage.png)  
